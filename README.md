@@ -8,3 +8,8 @@ Selecionar o tema mais relevante e elaborar um plano detalhado com os pontos-cha
 Escrever rascunhos de posts para redes sociais (especificamente Instagram para a Alura), utilizando linguagem engajadora e informativa para o público jovem.
 Editar e revisar o conteúdo gerado, garantindo clareza, concisão, correção e um tom adequado para o público-alvo da Alura.
 Em essência, o chatbot automatiza o processo de encontrar as notícias mais quentes de IA e transformá-las em rascunhos de posts prontos para redes sociais.
+
+Construção
+O código foi feito usando a ferramenta Google Colab durante as aulas gravadas na Imersão Alura de IA com Google Gemini entre os dias 12 e 18 de maio.
+Versão do Gemini
+Foi utilizado a versão gemini-2.0-flash, sua versão gratuita.
